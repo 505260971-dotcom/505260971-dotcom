@@ -1,4 +1,4 @@
-### 李鹃妍 Zoe Li · AI 应用开发（Agent / RAG / 后端）
+## Zoe Li · AI 应用开发（Agent / RAG / 后端）
 
 广州 · 莫纳什大学商业硕士（供应链管理方向）
 
